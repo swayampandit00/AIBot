@@ -13,7 +13,7 @@ recognizer = sr.Recognizer()
 engine = pyttsx3.init()
 
 # API Key
-API_KEY = 'AIzaSyBFilThuUNupsqf-YmQ9g_CLebVadWoabk'
+API_KEY = 'enter your api key'
 
 #Configure the API
 ai.configure(api_key=API_KEY)
